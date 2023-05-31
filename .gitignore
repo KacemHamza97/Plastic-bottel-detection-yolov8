@@ -183,5 +183,5 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 .idea
-/data
 /runs
+/data/plastic_bottle_img_dataset
